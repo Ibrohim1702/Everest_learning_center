@@ -769,13 +769,13 @@ button {
 #main_slider a.carousel-control-prev {
     position: absolute;
     left: 0px;
-    top: 60%;
+    top: 300%;
 }
 
 #main_slider a.carousel-control-next {
     position: absolute;
     right: 0px;
-    top: 60%;
+    top: 300px;
 }
 
 #main_slider .carousel-control-prev,
